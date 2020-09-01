@@ -1,2 +1,2 @@
 # Water-level-controller
-capacitance based dc water level controller with pwm
+Capacitance based DC water level controller with PWM
